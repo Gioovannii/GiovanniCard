@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7B4CD578252C366700E22AB5 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B4CD577252C366700E22AB5 /* InfoView.swift */; };
 		7BDB5CF4252B1D5D0034853D /* GiovanniCardApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDB5CF3252B1D5D0034853D /* GiovanniCardApp.swift */; };
 		7BDB5CF6252B1D5D0034853D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BDB5CF5252B1D5D0034853D /* ContentView.swift */; };
 		7BDB5CF8252B1D5E0034853D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7BDB5CF7252B1D5E0034853D /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7B4CD577252C366700E22AB5 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 		7BDB5CF0252B1D5D0034853D /* GiovanniCard.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GiovanniCard.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BDB5CF3252B1D5D0034853D /* GiovanniCardApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GiovanniCardApp.swift; sourceTree = "<group>"; };
 		7BDB5CF5252B1D5D0034853D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				7BDB5D03252B240E0034853D /* Fonts */,
 				7BDB5CF3252B1D5D0034853D /* GiovanniCardApp.swift */,
 				7BDB5CF5252B1D5D0034853D /* ContentView.swift */,
+				7B4CD577252C366700E22AB5 /* InfoView.swift */,
 				7BDB5CF7252B1D5E0034853D /* Assets.xcassets */,
 				7BDB5CFC252B1D5E0034853D /* Info.plist */,
 				7BDB5CF9252B1D5E0034853D /* Preview Content */,
@@ -151,6 +154,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BDB5CF6252B1D5D0034853D /* ContentView.swift in Sources */,
+				7B4CD578252C366700E22AB5 /* InfoView.swift in Sources */,
 				7BDB5CF4252B1D5D0034853D /* GiovanniCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
